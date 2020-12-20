@@ -27,7 +27,7 @@ After some searching, it looks like bit-specific addressing is not present on th
 
 # Schematic
 
-![schematic](https://github.com/petioptrv/shape-the-world-with-arduino/tree/master/lab-6/images/Lab-6.png)
+![schematic](https://github.com/petioptrv/shape-the-world-with-arduino/blob/master/lab-6/images/Lab-6.png?raw=true)
 
 # Installation
 ## Linux
