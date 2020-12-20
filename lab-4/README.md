@@ -11,6 +11,8 @@ are adapted from the [Nodate](https://github.com/MayaPosch/Nodate) project.
 
 # Schematic
 
+![schematic](https://github.com/petioptrv/shape-the-world-with-arduino/blob/master/lab-4/images/Lab-4.png?raw=true)
+
 # Installation
 ## Linux
 
